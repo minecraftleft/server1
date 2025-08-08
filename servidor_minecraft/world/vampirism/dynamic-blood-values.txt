@@ -1,0 +1,3 @@
+#Dynamically calculated blood values - DON'T EDIT
+quark:crab=4
+antonicraftmod:michicraft=6
