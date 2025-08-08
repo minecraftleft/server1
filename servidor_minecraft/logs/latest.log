@@ -1962,3 +1962,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [17:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GianCarlo132> ya lo cambie pero lo reinicio más tarde
 [17:45:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID dde8860c-a5ed-4ef7-8de4-f24077a671b3 owned by null
 [17:45:34] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID dde8860c-a5ed-4ef7-8de4-f24077a671b3 owned by null
+[17:46:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 8936b4b8-8a26-470b-8c96-bca5aea138dd owned by null
+[17:46:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0ec0a8a6-8a78-4d8d-bcf0-9c5ef41810c9 owned by null
+[17:46:46] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTableManager]: Couldn't find resource table treasure2:pools/treasure/scarce
+[17:47:44] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class com.trolmastercard.sexmod.em from class com.trolmastercard.sexmod.ex
+[17:47:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: yuuki lost connection: Disconnected
+[17:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yuuki left the game
+[17:49:13] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[17:49:13] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 84 mods : wi-zoom@1.0,avaritiatweaks@1.12.2-1.3.1,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.301,netherbackport@1.0.0,attributefix@1.0.12,incontrol@3.8.3,bibliocraft@2.4.6,chineseworkshop@1.2.6,betternether@0.1.8.6,antonicraftmod@1.0.0,bettercaves@1.12.2,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.12,comforts@1.4.1.3,placebo@1.6.0,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,forgelin@1.8.4,surge@2.0.77,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,props@2.6.3.7,ichunutil@7.2.2,jeresources@0.9.2.60,teamlapen-lib@1.6.2,forge@14.23.5.2860,xaeroworldmap_core@1.12.2-1.0,mysticallib@1.12.2-1.13.0,betterendforge@1.1.1,eplus@5.0.176,atlcraft@MC1.12-Ver1.9,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,mcwbridges@1.0.6,ptrmodellib@1.0.5,avaritia@3.3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,treasure2@2.3.2,vehicle@0.44.1,naturaldecormod@1.5.0,corpsecomplex@1.0.12.0,eyesinthedarkness@0.1.0,lycanitesmobs@2.0.8.10 - MC 1.12.2,simplybackpacks@1.4.9,spark@1.6.3,nether_api@1.3.0,bloodmoon@1.5.3,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,xaerominimap@25.2.10,gravestone@1.10.3,fastbench@1.7.4,autoreglib@1.3-32,cathedral@1.12.2-1.9.9,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,natura@4.3.4,gunpowderlib@1.12.2-1.1,inventoryhud@3.4.4,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.0,fastfurnace@1.3.1,spartanweaponry@1.6.1,cfm@6.3.0,aiimprovements@0.0.1.3,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,mcwfurnitures@1.0.1,backtools@7.0.1,foamfix@@VERSION@,codechickenlib@3.2.3.358,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,servertabinfo@1.2.6,geckolib3@3.0.30
+[17:49:13] [Netty Epoll Server IO #4/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[17:49:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[17:49:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: yuuki[/127.97.192.200:49015] logged in with entity id 62993 at (-641.8532602745559, 62.070608557635644, 676.5782252823738)
+[17:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yuuki joined the game
+[17:49:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 8936b4b8-8a26-470b-8c96-bca5aea138dd owned by null
+[17:49:15] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0ec0a8a6-8a78-4d8d-bcf0-9c5ef41810c9 owned by null
+[17:49:16] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 2a2163f0-dfd0-44b6-b3d5-6a0bed0a9197 owned by null
+[17:49:22] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 2a2163f0-dfd0-44b6-b3d5-6a0bed0a9197 owned by null
+[17:49:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GianCarlo132> para que no te bote tanto
+[17:49:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GianCarlo132> del afk creo que se puede configurar
+[17:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <yuuki> yo me salgo
+[17:49:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <GianCarlo132> a
+[17:50:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[17:50:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:50:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:50:46] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:50:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:50:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:50:57] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:51:06] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[17:51:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[17:51:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:51:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:51:23] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:54:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:54:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:54:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:54:29] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[17:54:35] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[17:54:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:54:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:54:51] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:55:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:55:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:55:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:55:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:55:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:55:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:55:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:55:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:55:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[17:55:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[17:55:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[17:55:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[17:55:40] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
