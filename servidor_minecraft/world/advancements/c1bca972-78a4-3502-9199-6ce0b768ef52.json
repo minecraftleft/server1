@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/building_blocks/andesite_pavement": {
+    "criteria": {
+      "has_mat": "2025-08-08 16:45:58 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_candle18_iron": {
     "criteria": {
       "atlcraft_has_string": "2025-08-08 16:30:51 +0000"
@@ -2275,6 +2281,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/diorite_fence": {
+    "criteria": {
+      "has_mat": "2025-08-08 16:42:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-05 22:54:13 +0000"
@@ -3455,6 +3467,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-05 05:37:52 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/decorations/andesite_fence": {
+    "criteria": {
+      "has_mat": "2025-08-08 16:45:58 +0000"
     },
     "done": true
   },
