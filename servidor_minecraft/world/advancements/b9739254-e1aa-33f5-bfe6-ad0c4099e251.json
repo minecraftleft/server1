@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/field_ridge": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-04 20:00:02 +0000"
@@ -203,6 +209,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/building_blocks/andesite_pavement": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_iron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -245,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-08-08 17:10:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
@@ -254,6 +272,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-08-06 01:43:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -362,6 +386,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-08-03 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_floorstand4_acacia": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:13:49 +0000"
     },
     "done": true
   },
@@ -563,6 +593,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-08-03 20:06:51 +0000"
@@ -654,6 +690,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/tree_altar": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
@@ -675,6 +717,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_red_flower": "2025-08-04 19:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -819,6 +867,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/building_blocks/rammed_earth": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
     },
     "done": true
   },
@@ -1038,9 +1092,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak_middle": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-03 20:24:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -1096,6 +1162,12 @@
   "biomesoplenty:recipes/transportation/boat_hellbark": {
     "criteria": {
       "entered_water": "2025-08-08 16:41:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_darkoak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -1252,6 +1324,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_darkoak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_acaciairon": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -1369,6 +1447,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_andesitesmooth": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_darkoak_middle": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -1612,6 +1696,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/diorite_fence": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:11 +0000"
@@ -1774,6 +1864,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_floorstand4": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:37 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone_top": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -1819,6 +1915,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/building_blocks/white_gray_wall": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
     },
     "done": true
   },
@@ -1909,6 +2011,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_oak_top": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
     },
     "done": true
   },
@@ -2014,6 +2122,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chain1_gold": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
@@ -2077,6 +2191,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-08-04 00:44:40 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_darkoakiron": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -2152,6 +2272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2025-08-04 18:01:46 +0000"
@@ -2203,6 +2329,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_hardenedclaylime": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_bayberry_juice": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:10:01 +0000"
     },
     "done": true
   },
@@ -2332,6 +2464,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_darkoak_top": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-03 23:51:28 +0000"
@@ -2374,9 +2512,27 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak_top_light1": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_oak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_oak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
     },
     "done": true
   },
@@ -2437,6 +2593,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-08-03 20:13:01 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/decorations/andesite_fence": {
+    "criteria": {
+      "has_mat": "2025-08-08 17:13:33 +0000"
     },
     "done": true
   },
@@ -2536,6 +2698,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_darkoak": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_jungle_middle": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -2545,6 +2713,18 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2025-08-08 16:41:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_oakiron": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_oak_middle": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
     },
     "done": true
   },
@@ -2656,6 +2836,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_darkoak_top": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-03 21:18:21 +0000"
@@ -2671,6 +2857,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_hardenedclay": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_darkoak_middle": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
@@ -2695,6 +2887,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak_top": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
     },
     "done": true
   },
@@ -2731,6 +2929,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_iron_top_light1": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/misc/black_clay": {
+    "criteria": {
+      "has_clay": "2025-08-08 17:13:49 +0000"
     },
     "done": true
   },
@@ -2830,9 +3034,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_darkoak_top_light1": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-08 17:10:55 +0000"
     },
     "done": true
   },
