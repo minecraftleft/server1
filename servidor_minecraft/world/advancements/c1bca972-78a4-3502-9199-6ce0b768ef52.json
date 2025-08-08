@@ -1324,6 +1324,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-08 16:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-05 14:52:15 +0000"
@@ -1676,6 +1682,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_candle13_castiron": {
     "criteria": {
       "atlcraft_has_string": "2025-08-08 16:30:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-08 16:53:30 +0000"
     },
     "done": true
   },
@@ -2170,6 +2182,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-05 03:11:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-08 16:53:30 +0000"
     },
     "done": true
   },
