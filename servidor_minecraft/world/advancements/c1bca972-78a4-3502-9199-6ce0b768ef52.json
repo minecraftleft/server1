@@ -1102,6 +1102,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/building_blocks/white_gray_wall_cheap": {
+    "criteria": {
+      "has_mat": "2025-08-08 18:36:10 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_candle07_pink": {
     "criteria": {
       "atlcraft_has_string": "2025-08-08 16:30:51 +0000"
@@ -1945,6 +1951,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/thatch_tile_ridge_roof": {
+    "criteria": {
+      "has_mat": "2025-08-08 18:25:59 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_iron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:52:12 +0000"
@@ -2014,6 +2026,12 @@
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_red_flower": "2025-08-06 18:56:27 +0000"
+    },
+    "done": true
+  },
+  "chineseworkshop:recipes/decorations/thatch_roof": {
+    "criteria": {
+      "has_mat": "2025-08-08 18:25:59 +0000"
     },
     "done": true
   },
@@ -2708,6 +2726,12 @@
     },
     "done": true
   },
+  "chineseworkshop:recipes/decorations/thatch_roof_tile_edge": {
+    "criteria": {
+      "has_mat": "2025-08-08 18:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-05 22:54:13 +0000"
@@ -3029,6 +3053,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-08-05 03:07:14 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chain1_gold": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 18:16:52 +0000"
     },
     "done": true
   },
