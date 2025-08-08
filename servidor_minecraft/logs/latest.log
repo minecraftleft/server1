@@ -2350,3 +2350,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:35:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GianCarlo132's Azure Ventoraptor  Lvl 2 moved wrongly!
 [18:36:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GianCarlo132's Azure Ventoraptor  Lvl 2 moved wrongly!
 [18:36:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GianCarlo132's Azure Ventoraptor  Lvl 2 moved wrongly!
+[18:37:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: GianCarlo132 was kicked for floating too long!
+[18:37:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: GianCarlo132 lost connection: Flying is not enabled on this server
+[18:37:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GianCarlo132 left the game
+[18:38:21] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[18:38:21] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 84 mods : wi-zoom@1.0,avaritiatweaks@1.12.2-1.3.1,mcgltf@1.12.2-Forge-2.0.3.0,jei@4.16.1.301,netherbackport@1.0.0,attributefix@1.0.12,incontrol@3.8.3,bibliocraft@2.4.6,chineseworkshop@1.2.6,betternether@0.1.8.6,antonicraftmod@1.0.0,bettercaves@1.12.2,neat@1.4-17,waystones@4.1.0,mcp@9.42,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.12,comforts@1.4.1.3,placebo@1.6.0,champions@1.12.2-1.0.11.10,bookshelf@2.3.590,forgelin@1.8.4,surge@2.0.77,inventorytweaks@1.63+release.109.220f184,foamfixcore@7.7.4,props@2.6.3.7,ichunutil@7.2.2,jeresources@0.9.2.60,teamlapen-lib@1.6.2,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,mysticallib@1.12.2-1.13.0,betterendforge@1.1.1,eplus@5.0.176,atlcraft@MC1.12-Ver1.9,ferdinandsflowers@1.10.4.1,minecraft@1.12.2,mcwbridges@1.0.6,ptrmodellib@1.0.5,avaritia@3.3.0,biomesoplenty@7.0.1.2445,baubles@1.5.2,treasure2@2.3.2,vehicle@0.44.1,naturaldecormod@1.5.0,corpsecomplex@1.0.12.0,eyesinthedarkness@0.1.0,lycanitesmobs@2.0.8.10 - MC 1.12.2,simplybackpacks@1.4.9,spark@1.6.3,nether_api@1.3.0,bloodmoon@1.5.3,sexmod@1.1.0,quark@r1.6-179,mantle@1.12-1.3.3.55,spartanshields@1.5.5,xaerominimap@25.2.10,gravestone@1.10.3,fastbench@1.7.4,autoreglib@1.3-32,cathedral@1.12.2-1.9.9,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,natura@4.3.4,gunpowderlib@1.12.2-1.1,inventoryhud@3.4.4,FML@8.0.99.99,obfuscate@0.4.2,gottschcore@1.15.0,fastfurnace@1.3.1,spartanweaponry@1.6.1,cfm@6.3.0,aiimprovements@0.0.1.3,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,xaerominimap_core@1.12.2-1.0,mcwfurnitures@1.0.1,backtools@7.0.1,foamfix@@VERSION@,codechickenlib@3.2.3.358,fastleafdecay@v14,bettermineshafts@1.12.2-2.2.1,servertabinfo@1.2.6,geckolib3@3.0.30
+[18:38:22] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[18:38:24] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[18:38:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: GianCarlo132[/127.62.16.94:52399] logged in with entity id 274100 at (-2546.1695376893376, 74.92434453964233, -436.6653953538962)
+[18:38:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: GianCarlo132 joined the game
+[18:38:24] [Server thread/WARN] [net.minecraft.world.WorldServer]: Tried to add entity lycanitesmobs:ventoraptor but it was marked as removed already
+[18:38:24] [Thread-17/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for c1bca972-78a4-3502-9199-6ce0b768ef52.
+[18:38:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Ken with UUID 0f3be882-56d7-42ca-8f9a-3644104084fd owned by null
+[18:38:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID ed7b12c3-e564-4a44-b4e1-09c87d9da51a owned by null
+[18:38:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kugs with UUID 692a1181-c1af-4a7b-89ba-2219d54b4bc5 owned by null
+[18:38:24] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID 466c22ad-c18b-4598-8ff6-6e389966e168 owned by null
+[18:39:53] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[18:39:53] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[18:39:53] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[18:39:54] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[18:39:54] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[18:39:54] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[18:41:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Mohru with UUID d6b37554-6c9a-493f-b75a-039bd7f09ca7 owned by null
+[18:41:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 28cf0c45-519d-4d5e-8e66-0689558d4297 owned by null
+[18:41:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Morn with UUID 980a9afa-7e32-41c1-a03b-fe149af4039f owned by null
+[18:41:48] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gox with UUID 1dd67034-6044-4de3-bcc7-88fa8bd598e8 owned by null
