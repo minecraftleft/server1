@@ -855,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 19:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-08-05 03:07:14 +0000"
@@ -1348,6 +1354,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 19:55:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2025-08-08 16:26:30 +0000"
@@ -1615,6 +1627,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-05 03:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 19:55:24 +0000"
     },
     "done": true
   },
@@ -2344,6 +2362,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_candle07_purple": {
     "criteria": {
       "atlcraft_has_string": "2025-08-08 16:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-08 19:55:24 +0000"
     },
     "done": true
   },
