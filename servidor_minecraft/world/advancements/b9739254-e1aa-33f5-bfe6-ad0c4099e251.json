@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
@@ -47,9 +53,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_jungle": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-08-03 20:40:16 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_spruce": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -77,15 +95,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
     "criteria": {
       "has_red_flower": "2025-08-04 19:25:03 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier2_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -131,6 +167,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_red": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_magenta": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
@@ -140,6 +188,12 @@
   "chineseworkshop:recipes/decorations/field_ridge": {
     "criteria": {
       "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_glass": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -161,6 +215,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_magenta": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-03 20:03:07 +0000"
@@ -179,15 +239,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-03 19:59:27 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-03 20:02:40 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_grey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -203,6 +281,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle23_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "chineseworkshop:recipes/decorations/candle": {
     "criteria": {
       "has_torch": "2025-08-08 16:40:59 +0000"
@@ -215,9 +305,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_orange": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_iron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -239,9 +341,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_black": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-03 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_cyan": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -266,6 +380,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -299,6 +419,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
@@ -329,9 +455,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle11_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -347,6 +485,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_red": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-08-03 20:17:42 +0000"
@@ -356,6 +506,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-08-04 02:34:04 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_glass": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -383,6 +539,24 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_slime": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_birch": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-08-03 20:25:59 +0000"
@@ -392,6 +566,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_floorstand4_acacia": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:13:49 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_blue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -428,6 +608,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle05_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -503,6 +689,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_black": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_hardenedclaypurple": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
@@ -521,9 +713,27 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle23_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-03 20:30:08 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -569,6 +779,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_white": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_birch": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-08-03 19:59:22 +0000"
@@ -596,6 +818,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle05_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -629,6 +857,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 20:17:32 +0000"
@@ -638,6 +872,24 @@
   "minecraft:recipes/decorations/jungle_fence": {
     "criteria": {
       "has_planks": "2025-08-06 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_creeper": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_zombie": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03_spruce": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -687,6 +939,18 @@
   "chineseworkshop:recipes/decorations/chinese_oak_door": {
     "criteria": {
       "has_mat": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_yellow": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_red": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -744,6 +1008,24 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_lightgrey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "chineseworkshop:recipes/decorations/upper_door_frame": {
     "criteria": {
       "has_mat": "2025-08-08 16:40:59 +0000"
@@ -753,6 +1035,24 @@
   "chineseworkshop:recipes/decorations/lithel_deco": {
     "criteria": {
       "has_mat": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_pink": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_ghast": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_glass": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -768,15 +1068,45 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_cyan": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_lime": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/skull_chest": {
     "criteria": {
       "has_skull": "2025-08-04 01:07:19 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_grey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -789,6 +1119,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2025-08-03 21:06:43 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -864,6 +1200,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle05_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
@@ -873,6 +1221,12 @@
   "chineseworkshop:recipes/building_blocks/rammed_earth": {
     "criteria": {
       "has_mat": "2025-08-08 17:13:33 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_spider": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -948,6 +1302,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/treasure_tool": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 20:14:38 +0000"
@@ -990,9 +1350,27 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier3_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-08-03 20:19:08 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_orange": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_darkoak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1011,6 +1389,18 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-03 19:59:27 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier3_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_cyan": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1056,6 +1446,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03_jungle": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-08-03 19:59:22 +0000"
@@ -1065,6 +1467,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03_acacia": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1080,9 +1488,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_birch": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-08-07 02:37:37 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_green": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1107,6 +1527,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1165,9 +1591,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_darkoak": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1189,6 +1627,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-08-03 20:40:16 +0000"
@@ -1201,6 +1645,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle25_white": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
@@ -1210,6 +1660,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-08-07 02:37:34 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1237,15 +1693,63 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_purple": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_natural": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "skeleton": "2025-08-03 20:19:11 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_acacia": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle13_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_brown": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1300,6 +1804,12 @@
     },
     "done": false
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_enderman": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
@@ -1336,6 +1846,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "chineseworkshop:recipes/decorations/bracket_set": {
     "criteria": {
       "has_mat": "2025-08-08 16:40:59 +0000"
@@ -1345,6 +1861,12 @@
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-08-05 05:26:17 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_skeleton": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1387,6 +1909,30 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_iron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_purple": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_pumpkin": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1438,6 +1984,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_white": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_at_least_9_diamond": "2025-08-05 22:11:43 +0000"
@@ -1468,9 +2020,57 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_lightgrey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_lightgray": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_blue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon_block": {
     "criteria": {
       "has_melon": "2025-08-04 20:00:02 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_yellow": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03_birch": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1480,9 +2080,27 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier3_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_granitesmooth": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_acacia": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1501,6 +2119,12 @@
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-08-03 20:13:01 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_white": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1558,6 +2182,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_lime": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_grey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-03 20:00:52 +0000"
@@ -1570,15 +2206,45 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "chineseworkshop:recipes/decorations/white_lantern": {
     "criteria": {
       "has_torch": "2025-08-08 16:40:59 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2025-08-03 20:55:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_brown": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1600,9 +2266,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_jungle": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 20:17:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle24item": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_purple": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle04_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1615,6 +2305,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_acacia_top": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_spruce": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1726,6 +2422,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-03 21:01:23 +0000"
@@ -1750,9 +2452,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-08-03 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_stone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1786,6 +2500,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_yellow": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_brown": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_redstone": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
@@ -1810,15 +2536,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_lightgrey": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_birch": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1852,9 +2596,21 @@
     },
     "done": false
   },
+  "atlcraft:atlcraftrecipes/atlcraft_rope1": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-08-03 19:59:27 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_lime": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1876,6 +2632,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_orange": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle12_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_hardenedclaylightblue": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
@@ -1885,6 +2653,18 @@
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1909,6 +2689,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_darkoak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -1945,6 +2731,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_jungleiron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_orange": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2008,9 +2800,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle12_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_acacia": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2026,6 +2842,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_oak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_acacia_top": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -2035,6 +2857,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-08-03 20:00:52 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_oak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2056,9 +2884,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle13_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "chineseworkshop:recipes/building_blocks/red_pillar": {
     "criteria": {
       "has_log": "2025-08-08 16:44:14 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_pink": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2116,6 +2956,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_magenta": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-08-03 19:58:25 +0000"
@@ -2131,6 +2983,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2152,9 +3010,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle23_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-03 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_pink": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2188,6 +3058,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_black": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-08-04 00:44:40 +0000"
@@ -2197,6 +3073,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_darkoakiron": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:10:55 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_brown": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2296,6 +3178,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle_creeper": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
@@ -2338,9 +3226,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-08-04 00:13:34 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2350,9 +3250,39 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20_castiron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_squid": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_magenta": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2398,6 +3328,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_emerald": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-08-08 16:41:11 +0000"
@@ -2407,6 +3343,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-04 17:56:57 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_purple": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2446,6 +3388,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "treasure2:recipes/crystal_skull_chest": {
     "criteria": {
       "has_skull": "2025-08-04 01:07:19 +0000"
@@ -2470,15 +3418,39 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_green": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_jungle": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-08-03 23:51:28 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_spruce": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-08-03 20:25:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_lime": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2512,6 +3484,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_oak_top_light1": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 17:10:30 +0000"
@@ -2521,6 +3499,18 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 20:15:40 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_cyan": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_green": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2566,9 +3556,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_jungle": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "entered_water": "2025-08-08 16:41:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_spruce": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2587,6 +3589,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-06 01:46:12 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle13_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2632,15 +3640,75 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_red": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 20:17:32 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_lightblue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:12 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2656,6 +3724,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_diamond": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_diorite": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
@@ -2668,9 +3742,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-03 20:43:32 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle13": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2680,15 +3766,39 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle12": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle11": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_candle_enderman_purple": {
     "criteria": {
       "atlcraft_has_skull": "2025-08-08 16:40:59 +0000"
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wooden_slab": {
     "criteria": {
       "has_planks": "2025-08-06 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_lightblue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2758,9 +3868,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_blue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_biglight1_bonfire_hardenedclayred": {
     "criteria": {
       "atlcraft_has_planks": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle06_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2782,9 +3904,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2025-08-05 03:06:18 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle20": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2797,6 +3931,12 @@
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle17_acacia": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2848,6 +3988,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle14_glass": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_acacia": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
@@ -2866,9 +4012,33 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_pink": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_blue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-08-03 20:55:16 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle01_stone_white": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2896,9 +4066,87 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle18_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle08": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle10_lapis": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle06": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle05": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle04": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2025-08-08 16:41:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier2_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_oak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle02": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle03_darkoak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -2992,9 +4240,27 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1_darkoak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle15_darkoak": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-08-03 20:19:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle11_gold": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -3007,6 +4273,24 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-06 00:18:00 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle21_yellow": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle19_redstone": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle16_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -3028,6 +4312,18 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_candle09_glass": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_lightblue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-03 20:00:52 +0000"
@@ -3040,9 +4336,39 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier2": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_gray": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier1": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 19:45:11 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle07_black": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle06_iron": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -3064,9 +4390,21 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_chandelier3": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
+    },
+    "done": true
+  },
   "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_jungle_middle": {
     "criteria": {
       "atlcraft_has_candlewax": "2025-08-08 16:40:59 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_green": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
@@ -3079,6 +4417,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2025-08-03 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_candle22_lightblue": {
+    "criteria": {
+      "atlcraft_has_string": "2025-08-08 17:33:35 +0000"
     },
     "done": true
   },
