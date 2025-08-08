@@ -2459,3 +2459,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [19:16:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [19:16:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: yuuki[/127.97.192.200:39423] logged in with entity id 333033 at (-812.5, 76.0, 26.5)
 [19:16:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yuuki joined the game
+[19:23:08] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: yuuki lost connection: Disconnected
+[19:23:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yuuki left the game
