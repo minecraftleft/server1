@@ -1,0 +1,247 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.1.jar)
+  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  ForgelinPlugin (Forgelin-1.8.4.jar)
+  Nether API Plugin (Nether-API-v1.3.0-mc1.12.2.jar)
+  SurgeLoadingPlugin (Surge-1.12.2-2.0.77.jar)
+  Quark Plugin (Quark-r1.6-179.jar)
+  ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
+Contact their authors BEFORE contacting forge
+
+// Quite honestly, I wouldn't worry myself about that.
+
+Time: 8/8/25 8:35 PM
+Description: Ticking entity
+
+java.lang.NullPointerException: Ticking entity
+	at com.trolmastercard.sexmod.h8.lambda$static$1(h8.java)
+	at com.trolmastercard.sexmod.h8.b(h8.java)
+	at com.trolmastercard.sexmod.f_.I(f_.java)
+	at com.trolmastercard.sexmod.f_.ao(f_.java)
+	at com.trolmastercard.sexmod.f_.an(f_.java)
+	at com.trolmastercard.sexmod.f_.func_70619_bc(f_.java)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:769)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.trolmastercard.sexmod.em.func_70071_h_(em.java)
+	at com.trolmastercard.sexmod.f_.func_70071_h_(f_.java)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.trolmastercard.sexmod.h8.lambda$static$1(h8.java)
+	at com.trolmastercard.sexmod.h8.b(h8.java)
+	at com.trolmastercard.sexmod.f_.I(f_.java)
+	at com.trolmastercard.sexmod.f_.ao(f_.java)
+	at com.trolmastercard.sexmod.f_.an(f_.java)
+	at com.trolmastercard.sexmod.f_.func_70619_bc(f_.java)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:769)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at com.trolmastercard.sexmod.em.func_70071_h_(em.java)
+	at com.trolmastercard.sexmod.f_.func_70071_h_(f_.java)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+
+-- Entity being ticked --
+Details:
+	Entity Type: sexmod:galath (com.trolmastercard.sexmod.f_)
+	Entity ID: 471645
+	Entity Name: Galath
+	Entity's Exact location: -331.65, 53.00, 158.53
+	Entity's Block location: World: (-332,53,158), Chunk: (at 4,3,14 in -21,9; contains blocks -336,0,144 to -321,255,159), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Entity's Momentum: 0.00, 0.00, 0.00
+	Entity's Passengers: []
+	Entity's Vehicle: ~~ERROR~~ NullPointerException: null
+Stacktrace:
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 341 Drop: 341
+	Level seed: 3719764256624487332
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (0,0,0), Chunk: (at 0,0,0 in 0,0; contains blocks 0,0,0 to 15,255,15), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 0 game time, 0 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 1.8.0_462, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 532941080 bytes (508 MB) / 3431989248 bytes (3273 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 70 mods loaded, 70 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                | Version              | Source                                            | Signature                                |
+	|:------ |:----------------- |:-------------------- |:------------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft         | 1.12.2               | minecraft.jar                                     | None                                     |
+	| LCHIJA | mcp               | 9.42                 | minecraft.jar                                     | None                                     |
+	| LCHIJA | FML               | 8.0.99.99            | forge-1.12.2-14.23.5.2860.jar                     | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge             | 14.23.5.2860         | forge-1.12.2-14.23.5.2860.jar                     | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | foamfixcore       | 7.7.4                | minecraft.jar                                     | None                                     |
+	| LCHIJA | obfuscate         | 0.4.2                | minecraft.jar                                     | None                                     |
+	| LCHIJA | aiimprovements    | 0.0.1.3              | AIImprovements-1.12-0.0.1b3.jar                   | None                                     |
+	| LCHIJA | antonicraftmod    | 1.0.0                | ANTONIcra Mod 1.12.2.jar                          | None                                     |
+	| LCHIJA | atlcraft          | MC1.12-Ver1.9        | ATLCraftCandlesMod(MC1.12-Ver1.9).jar             | None                                     |
+	| LCHIJA | attributefix      | 1.0.12               | AttributeFix-Forge-1.12.2-1.0.12.jar              | None                                     |
+	| LCHIJA | jei               | 4.16.1.301           | jei_1.12.2-4.16.1.301.jar                         | None                                     |
+	| LCHIJA | quark             | r1.6-179             | Quark-r1.6-179.jar                                | None                                     |
+	| LCHIJA | autoreglib        | 1.3-32               | AutoRegLib-1.3-32.jar                             | None                                     |
+	| LCHIJA | codechickenlib    | 3.2.3.358            | CodeChickenLib-1.12.2-3.2.3.358-universal.jar     | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+	| LCHIJA | avaritia          | 3.3.0                | Avaritia-1.12.2-3.3.0.37-universal.jar            | None                                     |
+	| LCHIJA | gunpowderlib      | 1.12.2-1.1           | GunpowderLib-1.12.2-1.1.jar                       | 4ffa87db52cf086d00ecc4853a929367b1c39b5c |
+	| LCHIJA | avaritiatweaks    | 1.12.2-1.3.1         | AvaritiaTweaks-1.12.2-1.3.1.jar                   | 4ffa87db52cf086d00ecc4853a929367b1c39b5c |
+	| LCHIJA | baubles           | 1.5.2                | Baubles-1.12-1.5.2.jar                            | None                                     |
+	| LCHIJA | bettercaves       | 1.12.2               | bettercaves-1.12.2-2.0.4.jar                      | None                                     |
+	| LCHIJA | betternether      | 0.1.8.6              | betternether-0.1.8.6.jar                          | None                                     |
+	| LCHIJA | biomesoplenty     | 7.0.1.2445           | BiomesOPlenty-1.12.2-7.0.1.2445-universal.jar     | None                                     |
+	| LCHIJA | mantle            | 1.12-1.3.3.55        | Mantle-1.12-1.3.3.55.jar                          | None                                     |
+	| LCHIJA | natura            | 4.3.4                | natura-1.12.2-4.3.4.jar                           | None                                     |
+	| LCHIJA | nether_api        | 1.3.0                | Nether-API-v1.3.0-mc1.12.2.jar                    | None                                     |
+	| LCHIJA | betterendforge    | 1.1.1                | BetterEndForge-Unofficial-GBPort-1.12.2-1.2.3.jar | None                                     |
+	| LCHIJA | bettermineshafts  | 1.12.2-2.2.1         | BetterMineshaftsForge-1.12.2-2.2.1.jar            | None                                     |
+	| LCHIJA | bibliocraft       | 2.4.6                | BiblioCraft[v2.4.6][MC1.12.2].jar                 | None                                     |
+	| LCHIJA | blockcraftery     | 1.12.2-1.3.1         | blockcraftery-1.12.2-1.3.1.jar                    | None                                     |
+	| LCHIJA | bloodmoon         | 1.5.3                | Bloodmoon-MC1.12.2-1.5.3.jar                      | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+	| LCHIJA | bookshelf         | 2.3.590              | Bookshelf-1.12.2-2.3.590.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | chisel            | MC1.12.2-1.0.2.45    | Chisel-MC1.12.2-1.0.2.45.jar                      | None                                     |
+	| LCHIJA | cathedral         | 1.12.2-1.9.9         | Cathedral-1.12.2-1.9.9.jar                        | None                                     |
+	| LCHIJA | champions         | 1.12.2-1.0.11.10     | champions-1.12.2-1.0.11.10.jar                    | b33d2c8df492beff56d1bbbc92da49b8ab7345a1 |
+	| LCHIJA | chineseworkshop   | 1.2.6                | ChineseWorkshop-1.12.2_1.2.6.jar                  | None                                     |
+	| LCHIJA | comforts          | 1.4.1.3              | comforts-1.12.2-1.4.1.3.jar                       | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+	| LCHIJA | corpsecomplex     | 1.0.12.0             | corpsecomplex-1.12.2-1.0.12.0.jar                 | b33d2c8df492beff56d1bbbc92da49b8ab7345a1 |
+	| LCHIJA | props             | 2.6.3.7              | Decocraft-2.6.3.7_1.12.2.jar                      | None                                     |
+	| LCHIJA | eplus             | 5.0.176              | EnchantingPlus-1.12.2-5.0.176.jar                 | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | eyesinthedarkness | 0.1.0                | EyesInTheDarkness-0.1.0.jar                       | None                                     |
+	| LCHIJA | sexmod            | 1.1.0                | Fapcraft 1.12.2 v1.1.jar                          | None                                     |
+	| LCHIJA | geckolib3         | 3.0.30               | Fapcraft 1.12.2 v1.1.jar                          | None                                     |
+	| LCHIJA | fastfurnace       | 1.3.1                | FastFurnace-1.12.2-1.3.1.jar                      | None                                     |
+	| LCHIJA | fastleafdecay     | v14                  | FastLeafDecay-v14.jar                             | None                                     |
+	| LCHIJA | fastbench         | 1.7.4                | FastWorkbench-1.12.2-1.7.4.jar                    | None                                     |
+	| LCHIJA | ferdinandsflowers | 1.10.4.1             | Ferdinand_s Flowers-1.12.x-1.10.4.1.jar           | None                                     |
+	| LCHIJA | foamfix           | @VERSION@            | foamfix-0.10.15-1.12.2.jar                        | None                                     |
+	| LCHIJA | forgelin          | 1.8.4                | Forgelin-1.8.4.jar                                | None                                     |
+	| LCHIJA | cfm               | 6.3.0                | furniture-6.3.2-1.12.2.jar                        | None                                     |
+	| LCHIJA | gottschcore       | 1.15.0               | GottschCore-mc1.12.2-f14.23.5.2859-v1.15.0.jar    | None                                     |
+	| LCHIJA | gravestone        | 1.10.3               | gravestone-1.10.3.jar                             | None                                     |
+	| LCHIJA | ichunutil         | 7.2.2                | iChunUtil-1.12.2-7.2.2.jar                        | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | incontrol         | 3.8.3                | incontrol-1.12-3.8.3.jar                          | None                                     |
+	| LCHIJA | lycanitesmobs     | 2.0.8.10 - MC 1.12.2 | lycanitesmobs-1.12.2-2.0.8.10.jar                 | None                                     |
+	| LCHIJA | mcwbridges        | 1.0.6                | mcw-bridges-1.0.6b-mc1.12.2.jar                   | None                                     |
+	| LCHIJA | mcwfurnitures     | 1.0.1                | mcw-furniture-1.0.1-mc1.12.2beta.jar              | None                                     |
+	| LCHIJA | naturaldecormod   | 1.5.0                | Natural_Decor_Mod_1.12_II_V1.5.1_BETA.jar         | None                                     |
+	| LCHIJA | netherbackport    | 1.0.0                | NetherUpdateBackport-1.12.2(1.0.1).jar            | None                                     |
+	| LCHIJA | performant        | 1.12.2-1.5           | performant-1.11.jar                               | None                                     |
+	| LCHIJA | placebo           | 1.6.0                | Placebo-1.12.2-1.6.1.jar                          | None                                     |
+	| LCHIJA | simplybackpacks   | 1.4.9                | simplybackpacks-1.4.9.jar                         | None                                     |
+	| LCHIJA | spark             | 1.6.3                | spark-forge.jar                                   | None                                     |
+	| LCHIJA | spartanshields    | 1.5.5                | SpartanShields-1.12.2-1.5.5.jar                   | None                                     |
+	| LCHIJA | spartanweaponry   | 1.6.1                | SpartanWeaponry-1.12.2-1.6.1.jar                  | None                                     |
+	| LCHIJA | surge             | 2.0.77               | Surge-1.12.2-2.0.77.jar                           | d476d1b22b218a10d845928d1665d45fce301b27 |
+	| LCHIJA | treasure2         | 2.3.2                | Treasure2-mc1.12.2-f14.23.5.2859-v2.3.2.jar       | None                                     |
+	| LCHIJA | vampirism         | 1.6.2                | Vampirism-1.12.2-1.6.2.jar                        | None                                     |
+	| LCHIJA | teamlapen-lib     | 1.6.2                | Vampirism-1.12.2-1.6.2.jar                        | None                                     |
+	| LCHIJA | vehicle           | 0.44.1               | vehicle-mod-0.44.1-1.12.2.jar                     | None                                     |
+	| LCHIJA | waystones         | 4.1.0                | Waystones_1.12.2-4.1.0.jar                        | None                                     |
+	| LCHIJA | mysticallib       | 1.12.2-1.13.0        | mysticallib-1.12.2-1.13.0.jar                     | None                                     |
+
+	Loaded coremods (and transformers): 
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.1.jar)
+  
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+ForgelinPlugin (Forgelin-1.8.4.jar)
+  
+Nether API Plugin (Nether-API-v1.3.0-mc1.12.2.jar)
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBetterNetherConfigLoader
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBetterNetherFirefly
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBetterNetherGenerator
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBiomesOPlentyBiomes
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBiomesOPlentyDecorator
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerBiomesOPlentyFixes
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerJITLCascadingFix
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerJITLGenerator
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerJITLTowerFix
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerLibraryExCascadingFix
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerNethercraftEvents
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerNetherEXBiomes
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerNetherExOverride
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerStygianEndBiomes
+  git.jbredwards.nether_api.mod.asm.transformers.modded.TransformerStygianEndCascadingFix
+  git.jbredwards.nether_api.mod.asm.transformers.modded.height.Transformer_NetherHeight_BiomesOPlenty
+  git.jbredwards.nether_api.mod.asm.transformers.modded.height.Transformer_NetherHeight_Natura
+  git.jbredwards.nether_api.mod.asm.transformers.modded.height.Transformer_NetherHeight_NetherEx
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.Transformer_MC_10369
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerBiomeEndDecorator
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerBiomeHell
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerCommandLocate
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerDragonSpawnManager
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerEntityRenderer
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerMapGenCavesHell
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerMapGenEndCity
+  git.jbredwards.nether_api.mod.asm.transformers.vanilla.TransformerWorldClient
+SurgeLoadingPlugin (Surge-1.12.2-2.0.77.jar)
+  
+Quark Plugin (Quark-r1.6-179.jar)
+  vazkii.quark.base.asm.ClassTransformer
+ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+LoadingPlugin (Bloodmoon-MC1.12.2-1.5.3.jar)
+  lumien.bloodmoon.asm.ClassTransformer
+	Pulsar/natura loaded Pulses: 
+		- NaturaCommons (Enabled/Forced)
+		- NaturaOverworld (Enabled/Not Forced)
+		- NaturaNether (Enabled/Not Forced)
+		- NaturaDecorative (Enabled/Not Forced)
+		- NaturaTools (Enabled/Not Forced)
+		- NaturaEntities (Enabled/Not Forced)
+		- NaturaOredict (Enabled/Forced)
+		- NaturaWorld (Enabled/Not Forced)
+
+	Profiler Position: N/A (disabled)
+	Player Count: 1 / 20; [EntityPlayerMP['yuuki'/337794, l='world', x=-813.51, y=63.83, z=0.40]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
