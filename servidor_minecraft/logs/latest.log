@@ -868,3 +868,21 @@
 [00:39:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:39:39] [Server thread/WARN] [FML]: Lycanites Mobs loaded a new chunk [74, 64] in dimension 0 (overworld) while populating chunk [76, 64], causing cascading worldgen lag.
 [00:39:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:43:36] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID dde8860c-a5ed-4ef7-8de4-f24077a671b3 owned by null
+[00:44:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID b3a23d5f-3b40-442b-92f7-56c0aab50ccf owned by null
+[00:44:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Kakla with UUID b76490b0-5fd8-453d-8377-bd6bfc16b0df owned by null
+[00:44:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Vum with UUID e4010ab3-e977-4213-9e70-5acf7b83dbde owned by null
+[00:44:53] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID 543e6687-9ad7-405b-bb99-46ea3a70acae owned by null
+[00:45:00] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Nutro with UUID 2a2163f0-dfd0-44b6-b3d5-6a0bed0a9197 owned by null
+[00:46:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sahsu with UUID 8936b4b8-8a26-470b-8c96-bca5aea138dd owned by null
+[00:46:12] [Server thread/WARN] [sexmod]: Removed old entry of kobold called San with UUID 0ec0a8a6-8a78-4d8d-bcf0-9c5ef41810c9 owned by null
+[00:48:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:48:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:48:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Boat moved wrongly!
+[00:48:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[00:48:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[00:48:18] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
+[00:48:27] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rupli with UUID d7a442f2-d657-4ac6-a485-85b3bcac75dc owned by null
+[00:48:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sneks with UUID d30dfc20-e70a-467e-b2b4-8a8e48271cd9 owned by null
+[00:48:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Rokko with UUID d3b4f807-7119-4f32-a948-6576e5df99a4 owned by null
+[00:48:44] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Sogi with UUID a893fa81-3f87-4450-8c62-f55be59269c7 owned by null
