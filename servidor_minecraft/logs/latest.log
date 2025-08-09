@@ -997,3 +997,5 @@
 [02:41:08] [Server thread/WARN] [sexmod]: Removed old entry of kobold called Gukle with UUID fc627d60-703c-42dd-b0e4-738589ada626 owned by null
 [02:41:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Stardust2p lost connection: Disconnected
 [02:41:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stardust2p left the game
+[02:48:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: yuuki lost connection: Disconnected
+[02:48:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: yuuki left the game
