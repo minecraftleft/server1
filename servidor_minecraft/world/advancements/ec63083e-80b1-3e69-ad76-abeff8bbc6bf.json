@@ -430,6 +430,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_floorstand3_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-03 05:43:28 +0000"
@@ -460,6 +466,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone_top": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:main/root": {
     "criteria": {
       "main": "2025-08-03 20:49:53 +0000"
@@ -475,6 +487,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_middle_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
     },
     "done": true
   },
@@ -1265,6 +1283,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-08-03 20:54:10 +0000"
@@ -1274,6 +1298,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-08-05 03:46:02 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
     },
     "done": true
   },
@@ -1529,6 +1559,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone_top_light1": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-08-03 20:50:20 +0000"
@@ -1583,6 +1619,12 @@
     },
     "done": true
   },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone_middle": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-08-03 22:37:13 +0000"
@@ -1622,6 +1664,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-03 05:36:44 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_edge_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
     },
     "done": true
   },
@@ -2069,6 +2117,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-08-04 05:25:47 +0000"
+    },
+    "done": true
+  },
+  "atlcraft:atlcraftrecipes/atlcraft_lamppost01_top_fancy_stone": {
+    "criteria": {
+      "atlcraft_has_candlewax": "2025-08-09 02:27:35 +0000"
     },
     "done": true
   },
